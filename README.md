@@ -22,3 +22,5 @@ Trying various object detection strategies.
 - https://www.youtube.com/watch?v=TrdevFK_am4
 - https://www.youtube.com/watch?v=rk9bhIRInC0
 - https://www.youtube.com/watch?v=j6kuz_NqkG0
+- https://towardsdatascience.com/a-demonstration-of-using-vision-transformers-in-pytorch-mnist-handwritten-digit-recognition-407eafbc15b0
+- https://towardsdatascience.com/implementing-visualttransformer-in-pytorch-184f9f16f632
