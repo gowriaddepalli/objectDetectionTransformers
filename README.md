@@ -20,3 +20,4 @@ Trying various object detection strategies.
 
 - https://theaisummer.com/vision-transformer/
 - https://www.youtube.com/watch?v=TrdevFK_am4
+- https://www.youtube.com/watch?v=rk9bhIRInC0
