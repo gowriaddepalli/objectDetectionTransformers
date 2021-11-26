@@ -12,7 +12,7 @@ Trying various object detection strategies.
  - https://github.com/facebookresearch/detr
 
 ## FPN:
- https://pytorch.org/vision/main/ops.html#torchvision.ops.FeaturePyramidNetwork
- https://pytorch.org/vision/main/feature_extraction.html
+ - https://pytorch.org/vision/main/ops.html#torchvision.ops.FeaturePyramidNetwork
+ - https://pytorch.org/vision/main/feature_extraction.html
 
 ## Vision Transformers:
