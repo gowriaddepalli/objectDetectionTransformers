@@ -1,7 +1,6 @@
 # Object Detection:
 
 Trying various object detection strategies.
-- Trying Faster RCNN with Feature Pyramid Networks according to shop the look paper.
 - Trying transformers based object detection (DETR)
 - Trying Vision Transformers.
 - Multitask Learning
