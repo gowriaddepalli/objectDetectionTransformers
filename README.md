@@ -28,3 +28,7 @@ Trying various object detection strategies.
 ## Multitask Learning:
 
 - https://ruder.io/multi-task/
+
+## Google ML Guide:
+
+- https://developers.google.com/machine-learning/guides/rules-of-ml
