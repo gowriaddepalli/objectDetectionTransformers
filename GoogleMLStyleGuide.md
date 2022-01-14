@@ -50,6 +50,24 @@ A simple heuristic can get your product out the door. A complex heuristic is unm
 
 ## 2. Deploying your first pipeline.
 
+Focus on your system infrastructure for your first pipeline. While it is fun to think about all the imaginative machine learning you are going to do, it will be hard to figure out what is happening if you don’t first trust your pipeline. 
+
+###### Rule #4: Keep the first model simple and get the infrastructure right.
+
+The first model provides the biggest boost to your product, so it doesn't need to be fancy. But you will run into many more infrastructure issues than you expect. Before anyone can use your fancy new machine learning system, you have to determine:
+
+- How to get examples to your learning algorithm.
+- A first cut as to what "good" and "bad" mean to your system.
+- How to integrate your model into your application. You can either apply the model live, or pre­compute the model on examples offline and store the results in a table. For example, you might want to pre­classify web pages and store the results in a table, but you might want to classify chat messages live.
+
+Choosing simple features makes it easier to ensure that:
+
+- The features reach your learning algorithm correctly.
+- The model learns reasonable weights.
+- The features reach your model in the server correctly.
+
+Once you have a system that does these three things reliably, you have done most of the work. Your simple model provides you with baseline metrics and a baseline behavior that you can use to test more complex models. Some teams aim for a "neutral" first launch: a first launch that explicitly de­prioritizes machine learning gains, to avoid getting distracted.
+
 ## 3. About launching and iterating while adding new features to your pipeline, how to evaluate models and training-serving skew.
 
 ## 4. what to do when you reach a plateau.
