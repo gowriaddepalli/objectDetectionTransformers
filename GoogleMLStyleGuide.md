@@ -2,6 +2,8 @@
 
 Reference: https://developers.google.com/machine-learning/guides/rules-of-ml
 
+## Terminologies:
+
 - Instance: The thing about which you want to make a prediction. For example, the instance might be a web page that you want to classify as either "about cats" or "not about cats".
 - Label: An answer for a prediction task ­­ either the answer produced by a machine learning system, or the right answer supplied in training data. For example, the label for a web page might be "about cats".
 - Feature: A property of an instance used in a prediction task. For example, a web page might have a feature "contains the word 'cat'".
