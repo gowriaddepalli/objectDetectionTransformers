@@ -12,3 +12,16 @@ Reference: https://developers.google.com/machine-learning/guides/rules-of-ml
 - Objective: A metric that your algorithm is trying to optimize.
 - Pipeline: The infrastructure surrounding a machine learning algorithm. Includes gathering the data from the front end, putting it into training data files, training one or more models, and exporting the models to production.
 - Click-through Rate The percentage of visitors to a web page who click a link in an ad.
+
+
+## Building Great products:
+
+Do machine learning like the great engineer you are, not like the great machine learning expert you aren’t.
+
+Most of the problems you will face are, in fact, engineering problems. Even with all the resources of a great machine learning expert, most of the gains come from great features, not great machine learning algorithms. So, the basic approach is:
+
+- Make sure your pipeline is solid end to end.
+- Start with a reasonable objective.
+- Add common­-sense features in a simple way.
+- Make sure that your pipeline stays solid.
+- This approach will work well for a long period of time. Diverge from this approach only when there are no more simple tricks to get you any farther. Adding complexity slows future releases.
