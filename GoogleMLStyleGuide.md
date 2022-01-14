@@ -25,3 +25,11 @@ Most of the problems you will face are, in fact, engineering problems. Even with
 - Add common­-sense features in a simple way.
 - Make sure that your pipeline stays solid.
 - This approach will work well for a long period of time. Diverge from this approach only when there are no more simple tricks to get you any farther. Adding complexity slows future releases.
+
+## 1. Understand whether the time is right for building a machine learning system.
+
+## 2. Deploying your first pipeline.
+
+## 3. About launching and iterating while adding new features to your pipeline, how to evaluate models and training-serving skew.
+
+## 4. what to do when you reach a plateau.
