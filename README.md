@@ -28,6 +28,7 @@ Trying various object detection strategies.
 ## Multitask Learning:
 
 - https://ruder.io/multi-task/
+- https://sh-tsang.medium.com/review-multi-task-self-supervised-visual-learning-f7ad76bb27cb
 
 ## Google ML Guide:
 
