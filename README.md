@@ -11,6 +11,7 @@ Trying various object detection strategies.
  - https://colab.research.google.com/drive/1W8-2FOdawjZl3bGIitLKgutFUyBMA84q#scrollTo=bm0eDi8lwt48&uniqifier=2
  - https://github.com/facebookresearch/detr
  - https://www.youtube.com/watch?v=T35ba_VXkMY
+ - https://docs.google.com/document/d/1UGgHT5KrTohPmIJlVGfJ6zNTf9YQYMtc_Mm5DUHmQTY/edit
 
 ## FPN:
  - https://pytorch.org/vision/main/ops.html#torchvision.ops.FeaturePyramidNetwork
